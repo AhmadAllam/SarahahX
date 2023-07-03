@@ -30,7 +30,7 @@ simple script for know who's send message in sarahah by getting ip and device us
 
 * [2]:Sarahah v2
     * running version 2 of sarahah phishing page >> this version get information of victim by redirect victim to another page and request permission to get informations 
-    * * The victim's data will be saved in "victim" folder 
+     * The victim's data will be saved in "victim" folder 
     
 * [0]:about & help
     * Run help and print banner ^_^
