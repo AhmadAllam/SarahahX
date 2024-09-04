@@ -18,6 +18,7 @@ simple script for know who's send message in sarahah by getting ip and device us
 
 * cd /SarahaX
 * chmod +x *
+* ./cloudflared update (for update tunnel only)
 * ./sarahah.sh
 * choose your favorite server
 
