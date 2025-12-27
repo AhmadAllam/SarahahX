@@ -39,5 +39,5 @@ simple script for know who's send message in sarahah by getting ip and device us
 ## Authors
 
 * dev. AhmadAllam
-    * my account. [telegram](https://t.me/echo_Allam)
+    - Telegram: [@echo_tester](https://t.me/echo_tester)
     * don't forget Palestine❤️
